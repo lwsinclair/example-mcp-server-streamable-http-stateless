@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lwsinclair-example-mcp-server-streamable-http-stateless-badge.png)](https://mseep.ai/app/lwsinclair-example-mcp-server-streamable-http-stateless)
+
 # Calculator Learning Demo - Streamable HTTP (Stateless) Transport
 
 <div align="center">
